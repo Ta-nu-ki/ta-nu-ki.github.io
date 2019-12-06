@@ -380,7 +380,7 @@ article #item-image {
 
 article.about-me {
   grid-template-columns: 10% 80% auto;
-  grid-template-rows: 10% 50% auto; }
+  grid-template-rows: auto auto auto; }
 
 article.about-me #item-title {
   grid-column-start: 1;
@@ -401,7 +401,7 @@ article.about-me #item-image img {
 
 article.my-works {
   grid-template-columns: 10% 80% auto;
-  grid-template-rows: 10% auto; }
+  grid-template-rows: auto auto; }
 
 article.my-works #item-title {
   grid-column-start: 1;
@@ -414,7 +414,7 @@ article.my-works #item-content {
 article.cv {
   color: white;
   background-color: #df2048;
-  grid-template-rows: 10% 30% 30% auto;
+  grid-template-rows: 10% auto auto auto;
   grid-template-columns: 15% 28% 28% auto; }
 
 article.cv #item-title {
