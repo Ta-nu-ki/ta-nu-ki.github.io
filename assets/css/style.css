@@ -508,3 +508,6 @@ article.cv #education {
 
 .form-group {
   width: 100%; }
+
+.tag h2 {
+  text-transform: capitalize; }
