@@ -464,7 +464,7 @@ article.cv #logo {
   writing-mode: vertical-rl;
   transform: rotate(180deg);
   align-self: center;
-  justify-self: start;
+  justify-self: center;
   font-size: 4.5em;
   font-weight: bold; }
 
