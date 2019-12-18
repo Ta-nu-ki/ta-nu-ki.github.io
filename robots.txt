@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: /subscribe
-
-Sitemap: http://katyabondar.com/sitemap.xml
+Sitemap: https://katyabondar.com/sitemap.xml
