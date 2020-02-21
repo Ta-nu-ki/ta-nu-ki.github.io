@@ -3,14 +3,14 @@
   <channel>
     <title>Katya Bondar Performance Artist</title>
     <description>Official website of the performance artist Katya Bondar. Check my announcements and last events. Contact me and let's collaborate!</description>
-    <link>https://katyabondar.com</link>
-    <atom:link href="https://katyabondar.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Jan 2020 22:39:44 +0300</pubDate>
-    <lastBuildDate>Tue, 14 Jan 2020 22:39:44 +0300</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 21 Feb 2020 20:14:14 +0300</pubDate>
+    <lastBuildDate>Fri, 21 Feb 2020 20:14:14 +0300</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>Unknown</title>
+        <title>UNKNOWN</title>
         <description>&lt;p&gt;Collective project UNKNOWN initiated by Katya Bondar, Pavel Bulgakov and Cary Shiu is going to Berlin to the Hošek Contemporary Residency (June 2020) to continue researching the ghost topic.&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;Ghost is something always around us, we are all surrounded by ghost in different ways – political, technological, personal ghosts. We can escape from it, encounter it, battle with it, fight with it, live with it… it means that we are always sharing a space with the ghosts, no matter of our choices of action. Yet, can we create a space that cultivate the awareness of them nowadays? how can we shift the reality so we can deal with the ghosts?  what if “ghost” is one body that moves through the history?&lt;/p&gt;
@@ -22,8 +22,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.hosekcontemporary.com/&quot;&gt;Hošek Contemporary Art Gallery Website&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Jan 2020 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/unknown/</link>
-        <guid isPermaLink="true">https://katyabondar.com/unknown/</guid>
+        <link>http://localhost:4000/unknown/</link>
+        <guid isPermaLink="true">http://localhost:4000/unknown/</guid>
         
         <category>performance</category>
         
@@ -36,19 +36,15 @@
     
       <item>
         <title>Murder Girl</title>
-        <description>&lt;p&gt;I’m happy to announce that I will participate as the choreographer in the Murder Girl performance. This performance is a part of the Murder Girl multimedia project by Diana Galimzyanova that is currently composed of short film and videoblog.&lt;!--more--&gt; Performance is based on the incident in the life of a completely ordinary serial killer blogger. Genuine sayings of real maniacs from different eras and countries will be used in the performance.&lt;/p&gt;
-
+        <description>&lt;p&gt;This performance is a part of the Murder Girl multimedia project by Diana Galimzyanova that is currently composed of short film and videoblog.&lt;!--more--&gt; Performance is based on the incident in the life of a completely ordinary serial killer blogger. Genuine sayings of real maniacs from different eras and countries will be used in the performance.&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Where: Ploschadka 8/3, Free Theater (Kazakova str. 8/3, Moscow, Russia)&lt;/li&gt;
-  &lt;li&gt;When: 15 February 2020, 8PM - 9PM&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/453943385279845/&quot;&gt;Facebook event&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://murdergirliswatchingyou.tumblr.com&quot;&gt;Murder Girl multimedia project website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
         <pubDate>Thu, 09 Jan 2020 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/murder-girl/</link>
-        <guid isPermaLink="true">https://katyabondar.com/murder-girl/</guid>
+        <link>http://localhost:4000/murder-girl/</link>
+        <guid isPermaLink="true">http://localhost:4000/murder-girl/</guid>
         
         <category>choreography</category>
         
@@ -57,7 +53,7 @@
         <category>theatre</category>
         
         
-        <category>announcement</category>
+        <category>event</category>
         
       </item>
     
@@ -86,8 +82,8 @@
 &lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Dec 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/meg-stuart/</link>
-        <guid isPermaLink="true">https://katyabondar.com/meg-stuart/</guid>
+        <link>http://localhost:4000/meg-stuart/</link>
+        <guid isPermaLink="true">http://localhost:4000/meg-stuart/</guid>
         
         <category>люди</category>
         
@@ -115,8 +111,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 16 Dec 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/heat-and-humidity/</link>
-        <guid isPermaLink="true">https://katyabondar.com/heat-and-humidity/</guid>
+        <link>http://localhost:4000/heat-and-humidity/</link>
+        <guid isPermaLink="true">http://localhost:4000/heat-and-humidity/</guid>
         
         <category>performance</category>
         
@@ -137,8 +133,8 @@ Hypervision is a framework or channel into which everything apocalyptic flows.&l
 &lt;p&gt;/people//what is this mind made of?//&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Nov 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/tentacles/</link>
-        <guid isPermaLink="true">https://katyabondar.com/tentacles/</guid>
+        <link>http://localhost:4000/tentacles/</link>
+        <guid isPermaLink="true">http://localhost:4000/tentacles/</guid>
         
         <category>performance</category>
         
@@ -159,8 +155,8 @@ Hypervision is a framework or channel into which everything apocalyptic flows.&l
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LiIDK1E4sFg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 29 Aug 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/extremophile-body/</link>
-        <guid isPermaLink="true">https://katyabondar.com/extremophile-body/</guid>
+        <link>http://localhost:4000/extremophile-body/</link>
+        <guid isPermaLink="true">http://localhost:4000/extremophile-body/</guid>
         
         <category>performance</category>
         
@@ -184,8 +180,8 @@ Hypervision is a framework or channel into which everything apocalyptic flows.&l
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 23 Aug 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/schizoid-children/</link>
-        <guid isPermaLink="true">https://katyabondar.com/schizoid-children/</guid>
+        <link>http://localhost:4000/schizoid-children/</link>
+        <guid isPermaLink="true">http://localhost:4000/schizoid-children/</guid>
         
         <category>performance</category>
         
@@ -201,8 +197,8 @@ Hypervision is a framework or channel into which everything apocalyptic flows.&l
         <description>&lt;p&gt;Friction is a 3 day movement research workshop based on Schizoid Children conception. It has been held as preparation for &lt;a href=&quot;https://katyabondar.com/schizoid-children/&quot;&gt;public space intervention&lt;/a&gt; at the streets of Saint Petersburg, Russia.&lt;!--more--&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Aug 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/friction-workshop/</link>
-        <guid isPermaLink="true">https://katyabondar.com/friction-workshop/</guid>
+        <link>http://localhost:4000/friction-workshop/</link>
+        <guid isPermaLink="true">http://localhost:4000/friction-workshop/</guid>
         
         <category>workshop</category>
         
@@ -222,8 +218,8 @@ Hypervision is a framework or channel into which everything apocalyptic flows.&l
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GhbK2UW9YZQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sat, 29 Jun 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/raving-gagarin/</link>
-        <guid isPermaLink="true">https://katyabondar.com/raving-gagarin/</guid>
+        <link>http://localhost:4000/raving-gagarin/</link>
+        <guid isPermaLink="true">http://localhost:4000/raving-gagarin/</guid>
         
         <category>performance</category>
         
@@ -240,8 +236,8 @@ Theatre version of the &lt;a href=&quot;https://katyabondar.com/reality-is-not-m
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BPRBR8xVCho&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 28 May 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/taganka-theatre-reality-is-not-my-best-view/</link>
-        <guid isPermaLink="true">https://katyabondar.com/taganka-theatre-reality-is-not-my-best-view/</guid>
+        <link>http://localhost:4000/taganka-theatre-reality-is-not-my-best-view/</link>
+        <guid isPermaLink="true">http://localhost:4000/taganka-theatre-reality-is-not-my-best-view/</guid>
         
         <category>theatre</category>
         
@@ -257,8 +253,8 @@ Theatre version of the &lt;a href=&quot;https://katyabondar.com/reality-is-not-m
         <description>&lt;p&gt;Two day workshop as preparation for the &lt;a href=&quot;https://katyabondar.com/reality-is-not-my-best-view/&quot;&gt;REALITY IS NOT MY BEST VIEW&lt;/a&gt; performance at Taganka Theatre.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 May 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/body-testing-workshop/</link>
-        <guid isPermaLink="true">https://katyabondar.com/body-testing-workshop/</guid>
+        <link>http://localhost:4000/body-testing-workshop/</link>
+        <guid isPermaLink="true">http://localhost:4000/body-testing-workshop/</guid>
         
         <category>workshop</category>
         
@@ -274,8 +270,8 @@ Theatre version of the &lt;a href=&quot;https://katyabondar.com/reality-is-not-m
 &lt;p&gt;hyper virus devours the end of the story&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 May 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/reality-is-not-my-best-view/</link>
-        <guid isPermaLink="true">https://katyabondar.com/reality-is-not-my-best-view/</guid>
+        <link>http://localhost:4000/reality-is-not-my-best-view/</link>
+        <guid isPermaLink="true">http://localhost:4000/reality-is-not-my-best-view/</guid>
         
         <category>performance</category>
         
@@ -293,8 +289,8 @@ You become vulnerable. Vulnerable means to be visible to other people. &lt;!--mo
 You cannot touch without being touched.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Apr 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/the-creep-is-a-storm-from-heaven/</link>
-        <guid isPermaLink="true">https://katyabondar.com/the-creep-is-a-storm-from-heaven/</guid>
+        <link>http://localhost:4000/the-creep-is-a-storm-from-heaven/</link>
+        <guid isPermaLink="true">http://localhost:4000/the-creep-is-a-storm-from-heaven/</guid>
         
         <category>performance</category>
         
@@ -314,8 +310,8 @@ You cannot touch without being touched.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 23 Mar 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/this-is-a-queer-object/</link>
-        <guid isPermaLink="true">https://katyabondar.com/this-is-a-queer-object/</guid>
+        <link>http://localhost:4000/this-is-a-queer-object/</link>
+        <guid isPermaLink="true">http://localhost:4000/this-is-a-queer-object/</guid>
         
         <category>performance</category>
         
@@ -337,8 +333,8 @@ You cannot touch without being touched.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eiosHZxo800&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Wed, 13 Mar 2019 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/ilunga/</link>
-        <guid isPermaLink="true">https://katyabondar.com/ilunga/</guid>
+        <link>http://localhost:4000/ilunga/</link>
+        <guid isPermaLink="true">http://localhost:4000/ilunga/</guid>
         
         <category>performance</category>
         
@@ -360,8 +356,8 @@ You cannot touch without being touched.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pGUifyO465c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sun, 30 Sep 2018 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/scotoma/</link>
-        <guid isPermaLink="true">https://katyabondar.com/scotoma/</guid>
+        <link>http://localhost:4000/scotoma/</link>
+        <guid isPermaLink="true">http://localhost:4000/scotoma/</guid>
         
         <category>performance</category>
         
@@ -378,8 +374,8 @@ You cannot touch without being touched.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/space-of-the-body/</link>
-        <guid isPermaLink="true">https://katyabondar.com/space-of-the-body/</guid>
+        <link>http://localhost:4000/space-of-the-body/</link>
+        <guid isPermaLink="true">http://localhost:4000/space-of-the-body/</guid>
         
         <category>performance</category>
         
@@ -398,8 +394,8 @@ You cannot touch without being touched.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lKBjr5HeYXw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 01 Jan 2018 00:00:00 +0300</pubDate>
-        <link>https://katyabondar.com/invisible-connections/</link>
-        <guid isPermaLink="true">https://katyabondar.com/invisible-connections/</guid>
+        <link>http://localhost:4000/invisible-connections/</link>
+        <guid isPermaLink="true">http://localhost:4000/invisible-connections/</guid>
         
         <category>performance</category>
         
