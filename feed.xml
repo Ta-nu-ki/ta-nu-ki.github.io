@@ -5,8 +5,8 @@
     <description>Official website of the performance artist Katya Bondar. Check my announcements and last events. Contact me and let's collaborate!</description>
     <link>https://katyabondar.com</link>
     <atom:link href="https://katyabondar.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Apr 2020 01:13:38 +0300</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2020 01:13:38 +0300</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2020 01:16:38 +0300</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2020 01:16:38 +0300</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -49,29 +49,8 @@ An experimental off-specific performance is a reflection on the subject of noway
       </item>
     
       <item>
-        <title>Unknown</title>
-        <description>&lt;p&gt;https://soundcloud.com/1nm56tt9fwsu/tsirkonievyy-braslet-vecher—
-layout: post
-title: UNKNOWN
-dates: [2020-06-01]
-place: [“Hošek Contemporary Art Gallery, Berlin, Germany”]
-author: 
-performers: 
-photo:
-music:
-special_thanks: 
-supported: 
-description: Unknown
-image: /assets/images/unknown-1.jpg
-categories: [announcement]
-tags:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;performance&lt;/li&gt;
-  &lt;li&gt;residency
-images:
-—
-Collective project UNKNOWN initiated by Katya Bondar, Pavel Bulgakov and Cary Shiu is going to Berlin to the Hošek Contemporary Residency (June 2020) to continue researching the ghost topic.&lt;!--more--&gt;&lt;/li&gt;
-&lt;/ul&gt;
+        <title>UNKNOWN</title>
+        <description>&lt;p&gt;Collective project UNKNOWN initiated by Katya Bondar, Pavel Bulgakov and Cary Shiu is going to Berlin to the Hošek Contemporary Residency (June 2020) to continue researching the ghost topic.&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;Ghost is something always around us, we are all surrounded by ghost in different ways – political, technological, personal ghosts. We can escape from it, encounter it, battle with it, fight with it, live with it… it means that we are always sharing a space with the ghosts, no matter of our choices of action. Yet, can we create a space that cultivate the awareness of them nowadays? how can we shift the reality so we can deal with the ghosts?  what if “ghost” is one body that moves through the history?&lt;/p&gt;
 
@@ -85,6 +64,12 @@ Collective project UNKNOWN initiated by Katya Bondar, Pavel Bulgakov and Cary Sh
         <link>https://katyabondar.com/unknown/</link>
         <guid isPermaLink="true">https://katyabondar.com/unknown/</guid>
         
+        <category>performance</category>
+        
+        <category>residency</category>
+        
+        
+        <category>announcement</category>
         
       </item>
     
